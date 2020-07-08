@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-             Testing push to 2 sites
+             One PUSH to Git, Two Test sites updated.
         </div>
     </form>
 </body>
