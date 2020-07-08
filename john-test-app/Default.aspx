@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-             Test Page for testing
+             Testing push to 2 sites
         </div>
     </form>
 </body>
